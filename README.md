@@ -6,12 +6,17 @@
 ---
 
 # 기간
-
-2022.9.17 ~ 2022.11.30 (총 10주)
-
-# 인원
-
-5명 / 리더- 이동근 , 팀원 - 송진세, 최상훈, 장근영, 방장원
+  
+2022.9.17 ~ 2022.11.30 (총 10주)  
+  
+# 인원  
+  
+5명  
+리더- 이동근  
+팀원- 송진세  
+      최상훈  
+      장근영 - <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/87963075?s=70&amp;v=4" width="35" height="35" alt="@GYoungJang" />
+      방장원  
 
 # 스터디
 
