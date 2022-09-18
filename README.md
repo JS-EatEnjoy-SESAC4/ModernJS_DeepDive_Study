@@ -11,9 +11,9 @@
   
 ## 멤버
 
-| <img width="100" src="https://github.com/Mokdasoo.png" alt="사진"> | <img width="100" src="https://github.com/SONGJINSE2.png" alt="사진"> | <img width="100" src="https://github.com/GYoungJang.png" alt="사진"> | <img width="100" src="https://github.com/tkdgnstkdcn.png" alt="사진"> | <img width="100" src="https://github.com/taecongs.png" alt="사진"> |
+| <img width="100" src="https://github.com/Mokdasoo.png" alt="사진"> | <img width="100" src="https://github.com/SONGJINSE2.png" alt="사진"> | <img width="100" src="https://github.com/GYoungJang.png" alt="사진"> | <img width="100" src="https://github.com/choilettuce.png" alt="사진"> | <img width="100" src="https://github.com/taecongs.png" alt="사진"> |
 | :------------------------------------------: | :-----------------------------------------: | :-------------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
-|       [이동근](https://github.com/Mokdasoo)       |      [송진세](https://github.com/SONGJINSE2)      |      [장근영](https://github.com/GYoungJang)      |      [최상훈](https://github.com/tkdgnstkdcn)      |      [방장원](https://github.com/taecongs)      |
+|       [이동근](https://github.com/Mokdasoo)       |      [송진세](https://github.com/SONGJINSE2)      |      [장근영](https://github.com/GYoungJang)      |      [최상훈](https://github.com/choilettuce)      |      [방장원](https://github.com/taecongs)      |
 
 
 # 스터디
