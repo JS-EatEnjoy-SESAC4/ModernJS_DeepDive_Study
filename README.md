@@ -11,9 +11,9 @@
   
 ## 멤버
 
-| ![](https://github.com/Mokdasoo.png?size=50) | ![](https://github.com/SONGJINSE2.png?size=50) | ![](https://github.com/GYoungJang.png?size=50) | ![](https://github.com/.png?size=50) |![](https://github.com/taecongs.png?size=50) |
+| <img width="100" src="https://github.com/Mokdasoo.png" alt="사진"> | <img width="100" src="https://github.com/SONGJINSE2.png" alt="사진"> | <img width="100" src="https://github.com/GYoungJang.png" alt="사진"> | <img width="100" src="https://github.com/tkdgnstkdcn.png" alt="사진"> | <img width="100" src="https://github.com/taecongs.png" alt="사진"> |
 | :------------------------------------------: | :-----------------------------------------: | :-------------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
-|       [이동근](https://github.com/Mokdasoo)       |      [송진세](https://github.com/SONGJINSE2)      |      [장근영](https://github.com/GYoungJang)      |      [최상훈](https://github.com/)      |      [방장원](https://github.com/taecongs)      |
+|       [이동근](https://github.com/Mokdasoo)       |      [송진세](https://github.com/SONGJINSE2)      |      [장근영](https://github.com/GYoungJang)      |      [최상훈](https://github.com/tkdgnstkdcn)      |      [방장원](https://github.com/taecongs)      |
 
 
 # 스터디
@@ -56,7 +56,7 @@ __내용__ :
 - 항상 main 브랜치 pull 이후에(최신화) 개인 브랜치 만들기
 - 개인 브랜치에서 공부한 내용 기록 후 pull request(PR)후 머지하기
 - 각 폴더안의 파일명은 챕터숫자-챕터명.md 느낌으로 작성한다. 예)01-프로그래밍.md  
-- md파일 사용법 블로그 참고 (https://heropy.blog/2017/09/30/markdown/)  
+- md파일 사용법 블로그 참고 (<img width="150" src="http://www.gstatic.com/webp/gallery/4.jpg" alt="Prunus" title="A Wild Cherry (Prunus avium) in flower">)  
 - 참고) 노션에서 글작성후 md파일에 복붙해도 적용되는거 같음
   
 ---
