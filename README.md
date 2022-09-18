@@ -11,9 +11,9 @@
   
 ## 멤버
 
-| ![](https://github.com/Mokdasoo.png?size=100) | ![](https://github.com/SONGJINSE2.png?size=100) | ![](https://github.com/GYoungJang.png?size=100) | ![](https://github.com/.png?size=100) |![](https://github.com/.png?size=100) |
+| ![](https://github.com/Mokdasoo.png?size=100) | ![](https://github.com/SONGJINSE2.png?size=100) | ![](https://github.com/GYoungJang.png?size=100) | ![](https://github.com/.png?size=100) |![](https://github.com/taecongs.png?size=100) |
 | :------------------------------------------: | :-----------------------------------------: | :-------------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
-|       [이동근](https://github.com/Mokdasoo)       |      [송진세](https://github.com/SONGJINSE2)      |      [장근영](https://github.com/GYoungJang)      |      [최상훈](https://github.com/)      |      [방장원](https://github.com/)      |
+|       [이동근](https://github.com/Mokdasoo)       |      [송진세](https://github.com/SONGJINSE2)      |      [장근영](https://github.com/GYoungJang)      |      [최상훈](https://github.com/)      |      [방장원](https://github.com/taecongs)      |
 
 
 # 스터디
