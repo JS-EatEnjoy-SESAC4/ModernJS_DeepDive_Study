@@ -68,17 +68,67 @@
 //   }
 // }
 // -===================================
-var string = "Hello World";
-var search = "l";
-var index;
+// var string = "Hello World";
+// var search = "l";
+// var index;
 
-for (var i = 0; i < string.length; i++) {
-  if (string[i] === search) {
-    index = i;
-    break;
-  }
-}
+// for (var i = 0; i < string.length; i++) {
+//   if (string[i] === search) {
+//     index = i;
+//     break;
+//   }
+// }
 
-console.log(index);
+// console.log(index);
 
-// 2
+// // 2
+
+// ------------------------------------------
+
+//for문 마름모찍기 (정답)
+
+// var star = "";
+// for (var i = 0; i < 9; i++) {
+//   if (i < 5) {
+//     for (var j = 4; j > i; j--) {
+//       star += " ";
+//     }
+//     for (var k = 0; k <= i * 2; k++) {
+//       star += "*";
+//     }
+//     star += "\n";
+//   } else {
+//     for (var j = 4; j < i; j++) {
+//       star += " ";
+//     }
+//     for (var k = 17; k > i * 2; k--) {
+//       star += "*";
+//     }
+//     star += "\n";
+//   }
+// }
+// console.log(star);
+
+// function isTruthy(v) {
+//   return !!v;
+// }
+// if (true == ) {
+//   console.log(+[]);
+// } else {
+//   console.log("bad");
+// }
+
+// ----------------------------------
+// function isFalsy(v) {
+//   return !!v;
+// }
+// // console.log(isTruthy("0"));
+// console.log(isFalsy("0"));
+
+// function isTruthy(v) {
+//   return !!v;
+// }
+
+// console.log(isTruthy("0"));
+
+console.log(Boolean({}));
